@@ -1,4 +1,5 @@
 # The-problem-of-death-squads-
+南信大数据结构课设
 C++解决约瑟夫环 敢死队问题
 
 使用了循环队列和循环链表
